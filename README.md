@@ -1,6 +1,6 @@
 # SPS_APL_20220065276-Smartinternz-virtual-intership
 
-Final Project-1 
+Final Project-1   link----https://github.com/spystarspo/SPS_APL_20220065276-Smartinternz-virtual-intership/tree/main/Search_Location
 Location Search APP 
 
 ![image](https://user-images.githubusercontent.com/109082271/191327661-e4dbf2f7-c7a3-4101-9d78-4ff9be823535.png)
@@ -14,7 +14,7 @@ Location Search APP
  
  Final Project-2
  
-  Grocery Android APP
+  Grocery Android APP  link---https://github.com/spystarspo/SPS_APL_20220065276-Smartinternz-virtual-intership/tree/main/Listapp
                         
   ![image](https://user-images.githubusercontent.com/109082271/192051072-62cf1408-7528-431c-a339-46e601842f05.png)
   
