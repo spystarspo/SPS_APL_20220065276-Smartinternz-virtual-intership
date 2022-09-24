@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.grocerylist",
+  "applicationId": "com.rudhira.GroceryList",
   "variantName": "debug",
   "elements": [
     {
