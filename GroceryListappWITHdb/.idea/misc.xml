@@ -3,10 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/admin/AndroidStudioProjects/RoomDatabaseYoutube/app/src/main/res/layout/activity_add_note.xml" value="0.35052083333333334" />
-        <entry key="..\:/Users/admin/AndroidStudioProjects/RoomDatabaseYoutube/app/src/main/res/layout/activity_main.xml" value="0.35052083333333334" />
-        <entry key="..\:/Users/admin/AndroidStudioProjects/RoomDatabaseYoutube/app/src/main/res/layout/activity_update_note.xml" value="0.35052083333333334" />
-        <entry key="..\:/Users/admin/AndroidStudioProjects/RoomDatabaseYoutube/app/src/main/res/layout/item_note.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GroceryList/app/src/main/res/layout/activity_add_note.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects//GroceryList/app/src/main/res/layout/activity_main.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GroceryList/app/src/main/res/layout/activity_update_note.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/GroceryList/app/src/main/res/layout/item_note.xml" value="0.35052083333333334" />
       </map>
     </option>
   </component>
